@@ -1,0 +1,244 @@
+[
+    {
+        "name": "Argentina",
+        "topLevelDomain": [
+            ".ar"
+        ],
+        "alpha2Code": "AR",
+        "alpha3Code": "ARG",
+        "callingCodes": [
+            "54"
+        ],
+        "capital": "Buenos Aires",
+        "altSpellings": [
+            "AR",
+            "Argentine Republic",
+            "República Argentina"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 43590400,
+        "latlng": [
+            -34.0,
+            -64.0
+        ],
+        "demonym": "Argentinean",
+        "area": 2780400.0,
+        "gini": 44.5,
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "borders": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "PRY",
+            "URY"
+        ],
+        "nativeName": "Argentina",
+        "numericCode": "032",
+        "currencies": [
+            {
+                "code": "ARS",
+                "name": "Argentine peso",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "es",
+                "iso639_2": "spa",
+                "name": "Spanish",
+                "nativeName": "Español"
+            },
+            {
+                "iso639_1": "gn",
+                "iso639_2": "grn",
+                "name": "Guaraní",
+                "nativeName": "Avañe'ẽ"
+            }
+        ],
+        "translations": {
+            "de": "Argentinien",
+            "es": "Argentina",
+            "fr": "Argentine",
+            "ja": "アルゼンチン",
+            "it": "Argentina",
+            "br": "Argentina",
+            "pt": "Argentina",
+            "nl": "Argentinië",
+            "hr": "Argentina",
+            "fa": "آرژانتین"
+        },
+        "flag": "https://restcountries.eu/data/arg.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Unión de Naciones Suramericanas",
+                    "União de Nações Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ],
+        "cioc": "ARG"
+    },
+    {
+        "name": "Malta",
+        "topLevelDomain": [
+            ".mt"
+        ],
+        "alpha2Code": "MT",
+        "alpha3Code": "MLT",
+        "callingCodes": [
+            "356"
+        ],
+        "capital": "Valletta",
+        "altSpellings": [
+            "MT",
+            "Republic of Malta",
+            "Repubblika ta' Malta"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 425384,
+        "latlng": [
+            35.83333333,
+            14.58333333
+        ],
+        "demonym": "Maltese",
+        "area": 316.0,
+        "gini": null,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [],
+        "nativeName": "Malta",
+        "numericCode": "470",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "mt",
+                "iso639_2": "mlt",
+                "name": "Maltese",
+                "nativeName": "Malti"
+            },
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Malta",
+            "es": "Malta",
+            "fr": "Malte",
+            "ja": "マルタ",
+            "it": "Malta",
+            "br": "Malta",
+            "pt": "Malta",
+            "nl": "Malta",
+            "hr": "Malta",
+            "fa": "مالت"
+        },
+        "flag": "https://restcountries.eu/data/mlt.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "MLT"
+    },
+    {
+        "name": "Lithuania",
+        "topLevelDomain": [
+            ".lt"
+        ],
+        "alpha2Code": "LT",
+        "alpha3Code": "LTU",
+        "callingCodes": [
+            "370"
+        ],
+        "capital": "Vilnius",
+        "altSpellings": [
+            "LT",
+            "Republic of Lithuania",
+            "Lietuvos Respublika"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 2872294,
+        "latlng": [
+            56.0,
+            24.0
+        ],
+        "demonym": "Lithuanian",
+        "area": 65300.0,
+        "gini": 37.6,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "BLR",
+            "LVA",
+            "POL",
+            "RUS"
+        ],
+        "nativeName": "Lietuva",
+        "numericCode": "440",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "lt",
+                "iso639_2": "lit",
+                "name": "Lithuanian",
+                "nativeName": "lietuvių kalba"
+            }
+        ],
+        "translations": {
+            "de": "Litauen",
+            "es": "Lituania",
+            "fr": "Lituanie",
+            "ja": "リトアニア",
+            "it": "Lituania",
+            "br": "Lituânia",
+            "pt": "Lituânia",
+            "nl": "Litouwen",
+            "hr": "Litva",
+            "fa": "لیتوانی"
+        },
+        "flag": "https://restcountries.eu/data/ltu.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "LTU"
+    }
+]
